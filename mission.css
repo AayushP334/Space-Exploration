@@ -67,7 +67,7 @@ h1 {
   position: relative;
   padding: 20px;
   margin-top: 700px;
-  z-index: 2;
+  z-index: 1;
   color: black;
 }
 .missioninfo-1,
